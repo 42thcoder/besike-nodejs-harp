@@ -1,0 +1,19 @@
+{
+  "name": "mini-harp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "mini-harp": "./bin/mini-harp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.0.1",
+    "minimist": "^1.1.1",
+    "serve-static": "^1.0.3"
+  }
+}
