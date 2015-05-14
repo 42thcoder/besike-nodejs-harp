@@ -7,7 +7,8 @@
     "test": "mocha"
   },
   "bin": {
-    "mini-harp": "./bin/mini-harp.js"
+    "mini-harp": "./bin/mini-harp.js",
+    "mini-harp-static": "./bin/mini-harp-static.js"
   },
   "author": "",
   "license": "ISC",
